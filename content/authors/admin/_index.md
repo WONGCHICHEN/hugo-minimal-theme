@@ -37,7 +37,7 @@ social:
   - icon: file-pdf
     icon_pack: fas
     label: View Resume
-    link: uploads/resume.pdf
+    link: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
